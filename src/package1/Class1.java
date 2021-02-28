@@ -6,6 +6,7 @@ public class Class1 {
 		//hello guys
 		//Welcome to our session
 		//Thank you for joning
+		//Here is a new commit
 	}
 
 }
